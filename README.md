@@ -9,7 +9,7 @@ Plotly é uma biblioteca de visualização de dados do Python, que permite a cri
 
 O Plotly é um projeto open-source que suporta mais de 40 tipos de gráficos, e abrange desde o mais simples gráficos de linhas, até mapas interativos, os gráficos podem ser incorporados ao jupyter notebook, ou páginas HTML.
 
-Participando de um projeto prático, que simulando uma empresa real, tive a necessidade de criar um Dashboard para apresentação, de algumas analises feita durante o projeto, pela facilidade e disponibilidade, foi criados alguns insights usando a ferramenta Chart-Studio do Plotly.
+Participando de um projeto prático, que simula uma empresa real, tive a necessidade de criar um Dashboard para apresentação, de algumas analises feita durante o projeto, pela facilidade e disponibilidade, foi criados alguns insights usando a ferramenta Chart-Studio do Plotly.
 
 [Clique aqui para acesso ao projeto.](https://github.com/villani31/plotly/blob/main/Visualiza%C3%A7%C3%A3o_Dados-Plotly.ipynb)
   
