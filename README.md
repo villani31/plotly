@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/vetores-gratis/pessoas-fazendo-analise-de-negocios-ideia-de-trabalho-em-equipe-e-lideranca-pequenos-trabalhadores-fazendo-pesquisas-no-computador-laptop-planejamento-de-negocios-ilustracao-vetorial-isolada_277904-1408.jpg" alt="Prever_custo_seguro"height=400px >
+  <img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-analise-da-instalacao_114360-1438.jpg" alt="Prever_custo_seguro"height=400px >
 </p>
 
 ## Visualização de dados com Plotly
