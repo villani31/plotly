@@ -12,6 +12,8 @@ O Plotly é um projeto open-source que suporta mais de 40 tipos de gráficos, e 
 Participando de um projeto prático, que simula uma empresa real, tive a necessidade de criar um Dashboard para apresentação, de algumas analises feita durante o projeto, pela facilidade e disponibilidade, foi criados alguns insights usando a ferramenta Chart-Studio do Plotly.
 
 [Clique aqui para acesso ao projeto.](https://github.com/villani31/plotly/blob/main/Visualiza%C3%A7%C3%A3o_Dados-Plotly.ipynb)
+
+Projeto de analise de dados da Olist, que esse projeto teve como base: [Analise de dados Olist](https://github.com/villani31/Vendas_Olist)
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
